@@ -1,4 +1,4 @@
-# Betrayal-Of-Blood-And-Wealth (V 2.0.2.37)
+# Betrayal-Of-Blood-And-Wealth (V 2.0.3.41)
 A terminal mini game developed my Ian Omwoyo.
 [Download](https://github.com/SilverSwag/Betrayal-Of-Blood-And-Wealth/archive/refs/heads/main.zip)
 ### Recommendation
